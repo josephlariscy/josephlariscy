@@ -11,3 +11,4 @@ I received my Ph.D. in Sociology from the University of Texas at Austin in 2013,
 ![RStudio](https://img.shields.io/badge/RStudio-%234285F4.svg?style=for-the-badge&logo=rstudioide&logoColor=white)
 ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
